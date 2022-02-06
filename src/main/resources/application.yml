@@ -21,3 +21,7 @@ astra.db:
 #securely connecting to astra hosted cassandra instance
 datastax.astra:
   secure-connect-bundle: secure-connect-better-reads.zip
+
+datadump.location:
+  authors: /Users/namit/Downloads/test-authors.txt
+  works: /Users/namit/Downloads/test-works.txt
