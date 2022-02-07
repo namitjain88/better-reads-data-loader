@@ -1,4 +1,4 @@
-jffi4228208702930895743.dylib
+*.dylib
 .DS_Store
 HELP.md
 target/
